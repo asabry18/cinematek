@@ -1,0 +1,1 @@
+export const allMoviesApi = 'https://api.themoviedb.org/3/movie/popular?api_key=d1a76bf7b2e89d3ba2f0992af7e4c18c&language=en-US&page=1'
